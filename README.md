@@ -7,12 +7,12 @@
 
 <div align="center" style="margin-bottom:200px">
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Rahulengineer-spec&theme=radical&show_icons=true" />
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulengineer-spec&layout=compact&theme=radical" />
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulengineer-spec&layout=compact&theme=radical" />
 </div>
 
-
-
 <br>
+
+ ![radical](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev?theme=radical)  
 
 ## Language and Tools
 
