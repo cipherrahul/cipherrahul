@@ -10,6 +10,9 @@
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulengineer-spec&layout=compact&theme=radical" />
 </div>
 
+<br>
+
+[![Rahulengineer-spec GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Rahulengineer-spec/github-readme-stats)
 
 <br>
 
