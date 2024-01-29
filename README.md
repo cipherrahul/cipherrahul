@@ -48,10 +48,29 @@
 [**Chandigarh University**](https://www.cuchd.in/)  <h6 style="color: red;">• Completed in July 2023</h6>
 Skills: `Data Structures and Algorithms` `Database Management Systems` `Computer Networks` `Operating Systems` `Software Engineering` `Artificial Intelligence` `Machine Learning` `Web Development` `Computer Graphics` `Computer Organization and Architecture`
 
-[<img align="left" height="94px" width="94px" alt="Company Logo" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100064659463548&tbnid=FC6W4hvHmcEByM&vet=12ahUKEwjw86Cf0IKEAxVWm2MGHSU8Dg4QMygBegQIARBR..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fcodingninjas%2F&docid=bx2SfQTvNSnNpM&w=960&h=958&q=Coding%20ninjas%20logo%20200%20*%20200%20png&ved=2ahUKEwjw86Cf0IKEAxVWm2MGHSU8Dg4QMygBegQIARBR"/>](https://www.codingninjas.com/)
+[<img align="left" height="94px" width="94px" alt="Company Logo" src="https://media.licdn.com/dms/image/C4E0BAQG5HFi6nWrpQg/company-logo_200_200/0/1655119369480/grupo_uninter_logo?e=1709164800&v=beta&t=A_gJyj3OZmT1JZNQcxaIJY67jzxMEJMvcpxyq1CwmS0"/>](https://www.codingninjas.com/)
 **Software enginerring intern** \
 [**Coding Ninjas**](https://www.codingninjas.com/) • <h6 style="color: pink;">• Completed</h6> \
 Skills: `java` `data structure` `algorithm` `fullstack` 
+
+[<img align="left" height="94px" width="94px" alt="One Bit Code Logo" src="https://your-logo-url.jpg"/>](https://www.onebitcode.com/)
+**Software Engineer** \
+[**One Bit Code**](https://www.onebitcode.com/) • In progress
+
+Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `Java` `NodeJs` `ExpressJS` `NextJs` `Python` `MongoDB`
+
+## Internship
+D2 completion · Oct 2022 - Dec 2022 · 3 mos \
+Mohali district, Punjab, India · On-site
+
+- Focused on practical applications of machine learning and deep learning using Python.
+- Key project involved stock price prediction using both machine learning and deep learning techniques.
+- Developed a web application for precise stock price forecasts based on user inputs.
+- Utilized Python libraries such as Django, showcasing versatility in web development.
+- Real-world application provided valuable insights into future stock performance.
+- Demonstrated ability to apply theoretical knowledge to practical projects during the internship.
+
+**Skills:** Django REST Framework, Machine Learning, and +2 more skills
 
 <br>
 
