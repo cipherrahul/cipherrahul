@@ -43,13 +43,12 @@
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQG5HFi6nWrpQg/company-logo_200_200/0/1655119369480/grupo_uninter_logo?e=1709164800&v=beta&t=A_gJyj3OZmT1JZNQcxaIJY67jzxMEJMvcpxyq1CwmS0"/>](https://www.linkedin.com/in/rahulardentian/?originalSubdomain=in)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freelogovectors.net%2Fchandigarh-university-logo-cu%2F&psig=AOvVaw3tfzMBOl57c1I46wLHDahV&ust=1706615767034000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDAiqrFgoQDFQAAAAAdAAAAABAD"/>](https://www.linkedin.com/in/rahulardentian/?originalSubdomain=in)
 **Software Engineering graduate 2023 batch** \
-[**CODECOMPETE**](https://www.linkedin.com/in/rahulardentian/?originalSubdomain=in)  • In progress\
-Skills: `full stack development' 'Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
-`Project Management` `Software Development` `Software Security` `Software Quality`
+[**Chandigarh university**](https://www.linkedin.com/in/rahulardentian/?originalSubdomain=in)  • Completed [2019-2023]\
+Skills: `full stack development` `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics` `Project Management` `Software Development` `Software Security` `Software Quality` `data structure &Algorithm`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.codecompete.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freelogovectors.net%2Fchandigarh-university-logo-cu%2F&psig=AOvVaw3tfzMBOl57c1I46wLHDahV&ust=1706615767034000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDAiqrFgoQDFQAAAAAdAAAAABAD"/>](https://www.codecompete.com/)
 **Software Engineering Intern** \
 [**Internship at d2automation**](https://www.d2automation.com/) • Completed
 D2 completion · Internship
@@ -63,7 +62,7 @@ Mohali district, Punjab, India · On-site
 - Real-world application provided valuable insights into future stock performance.
 - Demonstrated ability to apply theoretical knowledge to practical projects during the internship.
 
-**Skills:** Django REST Framework, Machine Learning, and +2 more skills
+**Skills:** Django REST Framework, Machine Learning, and Data Analysis
 
 **Student Intern At Coding Ninja** \
 [**Internship at coding ninja**](https://www.codingninja.com/) • Completed
