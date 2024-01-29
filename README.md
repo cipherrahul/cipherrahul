@@ -52,16 +52,9 @@ Skills: `Data Structures and Algorithms` `Database Management Systems` `Computer
 **Software enginerring intern** \
 [**Coding Ninjas**](https://www.codingninjas.com/) • <h6 style="color: pink;">• Completed</h6> \
 Skills: `java` `data structure` `algorithm` `fullstack` 
-
-[<img align="left" height="94px" width="94px" alt="One Bit Code Logo" src="https://your-logo-url.jpg"/>](https://www.onebitcode.com/)
-**Software Engineer** \
-[**One Bit Code**](https://www.onebitcode.com/) • In progress
-
-Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `Java` `NodeJs` `ExpressJS` `NextJs` `Python` `MongoDB`
-
-## Internship
-D2 completion · Oct 2022 - Dec 2022 · 3 mos \
-Mohali district, Punjab, India · On-site
+<h5 style="color:red;">## Internship</h5>
+<h6 style="color:pink;">D2 completion · Oct 2022 - Dec 2022 · 3 mos \
+Mohali district, Punjab, India · On-site </h6>
 
 - Focused on practical applications of machine learning and deep learning using Python.
 - Key project involved stock price prediction using both machine learning and deep learning techniques.
