@@ -45,21 +45,40 @@
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQG5HFi6nWrpQg/company-logo_200_200/0/1655119369480/grupo_uninter_logo?e=1709164800&v=beta&t=A_gJyj3OZmT1JZNQcxaIJY67jzxMEJMvcpxyq1CwmS0"/>](https://www.linkedin.com/in/rahulardentian/?originalSubdomain=in)
 **Software Engineering graduate 2023 batch** \
-[**UNINTER**](https://www.linkedin.com/in/rahulardentian/?originalSubdomain=in)  • In progress\
+[**CODECOMPETE**](https://www.linkedin.com/in/rahulardentian/?originalSubdomain=in)  • In progress\
 Skills: `full stack development' 'Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.onebitcode.com/)
-**Full Stack Developer** \
-[**One Bit Code**](https://www.onebitcode.com/) • In progress \
-Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `Java` `NodeJs` `ExpressJS` `NextJs`
-`Python` `MongoDB` `Python`
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.codecompete.com/)
+**Software Engineering Intern** \
+[**Internship at d2automation**](https://www.d2automation.com/) • Completed
+D2 completion · Internship
+Oct 2022 - Dec 2022 · 3 mos
+Mohali district, Punjab, India · On-site
+
+- Internship centered on practical applications of machine learning and deep learning using Python.
+- Key project involved stock price prediction using both machine learning and deep learning techniques.
+- Developed a web application for precise stock price forecasts based on user inputs.
+- Utilized Python libraries such as Django, showcasing versatility in web development.
+- Real-world application provided valuable insights into future stock performance.
+- Demonstrated ability to apply theoretical knowledge to practical projects during the internship.
+
+**Skills:** Django REST Framework, Machine Learning, and +2 more skills
+
+**Student Intern At Coding Ninja** \
+[**Internship at coding ninja**](https://www.codingninja.com/) • Completed
+Coding Ninjas · Part-time
+Aug 2021 - Jan 2024 · 2 yrs 6 mos
+Delhi, India · Remote
+
+**Skills:** Full-Stack Development, Version Control, and +2 more skills
+
 
 <br>
 
 ## Contact me:
 <div>
-<a href="https://www.instagram.com/y_m_k.02/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/_ardentian/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto: rahul9271#outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://in.linkedin.com/in/rahulardentian" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
