@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Rahul Choudhary +Ata;I'm+Software+Engineer)](https://git.io/typing-svg)
+https://readme-typing-svg.herokuapp.com/?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Rahul+Choudhary;I%27m+Software+Engineer+&+fullstack developer
 
 <h3 align="center">"Talk is cheap. Show me the code"</h3>
 <h4 align="center">- Linus Torvalds -</h4>
