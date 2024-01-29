@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Rahul+Choudhary;I'm+Software+Engineer+&+fullstack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Rahul+Choudhary;I'm+Software+a+Engineer)](https://git.io/typing-svg)
 
 <h3 align="center">"Actions speak louder than words."</h3>
 <h4 align="center">- Linus Torvalds -</h4>
@@ -10,9 +10,8 @@
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulengineer-spec&layout=compact&theme=radical" />
 </div>
 
-<br>
 
- ![radical](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev?theme=radical)  
+<br>
 
 ## Language and Tools
 
