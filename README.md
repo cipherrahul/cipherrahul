@@ -7,7 +7,7 @@
 
 <div align="center" style="margin-bottom:200px">
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Rahulengineer-spec&theme=radical&show_icons=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulengineer-spec&layout=compact&theme=radical" />
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulengineer-spec&layout=compact&theme=radical" />
 </div>
 
 
@@ -50,7 +50,7 @@
 Skills: `Data Structures and Algorithms` `Database Management Systems` `Computer Networks` `Operating Systems` `Software Engineering` `Artificial Intelligence` `Machine Learning` `Web Development` `Computer Graphics` `Computer Organization and Architecture`
 
 [<img align="left" height="94px" width="94px" alt="Company Logo" src="https://media.licdn.com/dms/image/C4E0BAQG5HFi6nWrpQg/company-logo_200_200/0/1655119369480/grupo_uninter_logo?e=1709164800&v=beta&t=A_gJyj3OZmT1JZNQcxaIJY67jzxMEJMvcpxyq1CwmS0"/>](https://www.codingninjas.com/)
-**Software enginerring intern** \
+**Software engineering intern** \
 [**Coding Ninjas**](https://www.codingninjas.com/) • <h6 style="color: pink;">• Completed</h6> \
 Skills: `java` `data structure` `algorithm` `fullstack` 
 <h5 style="color:red;">## Internship</h5>
