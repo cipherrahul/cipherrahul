@@ -3,7 +3,6 @@ Hello! 👋 I’m a passionate Software Engineer and a dedicated Full Stack Deve
 
 
 ## 🌐 Socials:
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_ardentian/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulardentian)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/programmerchoi1)
